@@ -1,13 +1,14 @@
-# es6_template
+# Template Codility
 
-Node JS app template using Yarn.
+Node JS app template for solving codility programming problems
 
 ## Testing
 
 Uses Mocha, Sinon, Chai.
 
-## To start a new project
+## To Run Test
 
 ```bash
-git archive --format zip --output ~/Desktop/es6_template.zip master
+yarn run test
 ```
+
