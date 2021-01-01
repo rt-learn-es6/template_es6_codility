@@ -7,13 +7,13 @@ describe('Solution', () => {
   const sut = new Solution()
 
   describe('#solution', () => {
-    const actualData = []
-    const expectedData = []
+    const inputData = [1]
+    const expectedData = [1]
 
-    for (let i = 0; i < actualData.length; i += 1) {
-      describe(`when given ${actualData[i]}`, () => {
+    for (let i = 0; i < inputData.length; i += 1) {
+      describe(`when given ${inputData[i]}`, () => {
         it('passes', () => {
-          expect(sut.solution()).to.eq(expectedData[i])
+          expect(sut.solution(inputData[i])).to.eq(expectedData[i])
         })
       })
     }

@@ -1,4 +1,5 @@
 export class Solution {
-  solution() {
+  solution(input) {
+  	return input
   }
 }
