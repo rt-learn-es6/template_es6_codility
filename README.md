@@ -14,5 +14,4 @@ yarn run test
 
 ## How to use
 
-Use this as reference to update cookie cutter. Use the cookie cutter version to 
-create an actual project.
+Use this as reference to update cookie cutter. Use the cookie cutter version to create an actual project.
