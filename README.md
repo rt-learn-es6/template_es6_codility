@@ -9,7 +9,7 @@ Uses Mocha, Sinon, Chai.
 ## To Run Test
 
 ```bash
-yarn run test
+yarn test
 ```
 
 ## How to use
