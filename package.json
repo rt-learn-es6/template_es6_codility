@@ -1,6 +1,6 @@
 {
   "name": "template_codility",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "solution.js",
   "repository": "git@github.com:rt-learn-es6/template_codility.git",
   "author": "Royce Remulla <royce.com@gmail.com>",
